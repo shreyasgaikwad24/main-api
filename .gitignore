@@ -1,0 +1,9 @@
+env instance
+- idea/
+- vscode/
+- venv*/
+venv*/
+_pycache. dist/
+- coverage* htmlcov/
+- tox/
+docs/_build/
